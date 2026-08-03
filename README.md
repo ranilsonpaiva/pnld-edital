@@ -5,6 +5,7 @@ Sistema para ler editais PNLD (PDF), extrair critérios e validá-los com superv
 ## Status do MVP
 
 - Interface web de revisão HITL (sem login por enquanto)
+- Viewer PDF lado a lado com salto para `page_start` do critério
 - Filas iniciais: Anexo 01 §§3–4 (Anos Iniciais 2027 e Anos Finais 2028–2031)
 - Extrator Python de seções / itens / alíneas
 - Autenticação **prevista** via `AuthProvider` + `VITE_AUTH_ENABLED` (desligada)
@@ -63,7 +64,7 @@ Hoje o acesso é aberto. A base já existe em `apps/web/src/auth/`:
 
 ## Roadmap curto
 
-1. Viewer PDF com highlight do `page_start`
+1. Highlight preciso por bbox/`source_span` (hoje: salto de página + marca textual simples)
 2. API + Postgres para reviews (em vez de só localStorage)
 3. Ligar auth e papéis `reviewer` / `admin`
 4. Loop de aprendizado (RAG com pares before→after)

@@ -156,6 +156,82 @@ select,
   min-height: 70vh;
 }
 
+.layout-triple {
+  grid-template-columns: 240px minmax(320px, 1.1fr) minmax(320px, 0.95fr);
+}
+
+.pdf-panel {
+  min-height: 70vh;
+}
+
+.pdf-viewer {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  flex: 1;
+}
+
+.pdf-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--line);
+  background: #fbf8f1;
+}
+
+.pdf-scroll {
+  overflow: auto;
+  flex: 1;
+  background: #e8e2d4;
+  padding: 12px;
+}
+
+.pdf-page {
+  position: relative;
+  width: fit-content;
+  margin: 0 auto;
+  box-shadow: none;
+  border: 1px solid var(--line);
+  background: white;
+}
+
+.pdf-page canvas {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.pdf-text-layer {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  line-height: 1;
+  opacity: 0.25;
+  pointer-events: none;
+}
+
+.pdf-text-layer span {
+  position: absolute;
+  white-space: pre;
+  transform-origin: 0% 0%;
+  color: transparent;
+}
+
+.pdf-text-layer span.pdf-hit {
+  background: #f5d76e;
+  opacity: 1;
+  color: transparent;
+  outline: 1px solid #c9a227;
+}
+
+.pdf-empty {
+  padding: 32px 20px;
+  color: var(--muted);
+  text-align: center;
+}
+
 .panel {
   background: var(--bg-elevated);
   border: 1px solid var(--line);
@@ -320,6 +396,16 @@ select,
   padding: 48px 24px;
   text-align: center;
   color: var(--muted);
+}
+
+@media (max-width: 1100px) {
+  .layout-triple {
+    grid-template-columns: 1fr;
+  }
+
+  .pdf-panel {
+    min-height: 50vh;
+  }
 }
 
 @media (max-width: 900px) {

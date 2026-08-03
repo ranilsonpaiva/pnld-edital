@@ -31,6 +31,7 @@ export type ManifestEntry = {
   id: string;
   label: string;
   file: string;
+  pdf?: string;
   count: number;
 };
 

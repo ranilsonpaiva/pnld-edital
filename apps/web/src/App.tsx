@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import { RequireAuth, useAuth } from "./auth";
+import { PdfViewer } from "./PdfViewer";
 import type {
   CriterionItem,
   ManifestEntry,
@@ -42,6 +43,7 @@ export default function App() {
   const [reviews, setReviews] = useState<ReviewEvent[]>(() => loadReviews());
   const [filter, setFilter] = useState<"pending" | "all">("pending");
   const [error, setError] = useState<string | null>(null);
+  const [pdfOverridePage, setPdfOverridePage] = useState<number | null>(null);
 
   useEffect(() => {
     fetch("/data/manifest.json")
@@ -58,6 +60,7 @@ export default function App() {
     const entry = manifest.find((m) => m.id === queueId);
     if (!entry) return;
     setError(null);
+    setPdfOverridePage(null);
     fetch(`/data/${entry.file}`)
       .then((r) => r.json())
       .then((data: QueuePayload) => {
@@ -89,19 +92,30 @@ export default function App() {
     }
     const safeIndex = Math.min(index, visibleItems.length - 1);
     if (safeIndex !== index) setIndex(safeIndex);
-    const current = visibleItems[safeIndex];
-    const existing = latestByCode.get(current.code);
-    setDraft(existing?.after || current.statement);
+    const currentItem = visibleItems[safeIndex];
+    const existing = latestByCode.get(currentItem.code);
+    setDraft(existing?.after || currentItem.statement);
     setNote(existing?.note || "");
+    setPdfOverridePage(null);
   }, [visibleItems, index, latestByCode]);
 
   const current = visibleItems[index] ?? null;
+  const currentPdf =
+    manifest.find((m) => m.id === queueId)?.pdf ?? null;
+  const pdfPage = pdfOverridePage ?? current?.page_start ?? 1;
+
   const reviewedCount = queue
     ? queue.items.filter((item) => latestByCode.has(item.code)).length
     : 0;
-  const approved = [...latestByCode.values()].filter((e) => e.action === "approve").length;
-  const edited = [...latestByCode.values()].filter((e) => e.action === "edit").length;
-  const rejected = [...latestByCode.values()].filter((e) => e.action === "reject").length;
+  const approved = [...latestByCode.values()].filter(
+    (e) => e.action === "approve",
+  ).length;
+  const edited = [...latestByCode.values()].filter(
+    (e) => e.action === "edit",
+  ).length;
+  const rejected = [...latestByCode.values()].filter(
+    (e) => e.action === "reject",
+  ).length;
 
   function commit(action: ReviewAction) {
     if (!queue || !current) return;
@@ -111,10 +125,6 @@ export default function App() {
         : action === "approve"
           ? current.statement
           : draft.trim() || current.statement;
-
-    if (action === "edit" && after === current.statement && !note.trim()) {
-      // treat unchanged edit as approve unless note provided
-    }
 
     const event: ReviewEvent = {
       id: crypto.randomUUID(),
@@ -141,7 +151,6 @@ export default function App() {
     saveReviews(next);
 
     if (filter === "pending") {
-      // item disappears; keep index pointing to next pending
       setNote("");
     } else if (index < visibleItems.length - 1) {
       setIndex(index + 1);
@@ -158,7 +167,9 @@ export default function App() {
       }
       if (e.key === "a" || e.key === "A") commit("approve");
       if (e.key === "e" || e.key === "E") {
-        const area = document.getElementById("draft") as HTMLTextAreaElement | null;
+        const area = document.getElementById(
+          "draft",
+        ) as HTMLTextAreaElement | null;
         area?.focus();
       }
       if (e.key === "r" || e.key === "R") commit("reject");
@@ -196,210 +207,231 @@ export default function App() {
 
   return (
     <RequireAuth>
-    <div className="app">
-      <header className="topbar">
-        <div>
-          <h1 className="brand">PNLD HITL</h1>
-          <p className="sub">
-            Validação supervisionada de critérios · Anexo 01 §§3–4
-          </p>
-        </div>
-        <div className="controls">
-          {!authEnabled ? (
-            <span className="pill pending">acesso aberto · auth prevista</span>
-          ) : user ? (
-            <span className="pill ok">
-              {user.name}
-              <button
-                type="button"
-                className="btn-ghost"
-                style={{ marginLeft: 8, padding: "2px 8px" }}
-                onClick={signOut}
-              >
-                Sair
-              </button>
-            </span>
-          ) : null}
-          <select
-            value={queueId}
-            onChange={(e) => setQueueId(e.target.value)}
-            aria-label="Fila"
-          >
-            {manifest.map((m) => (
-              <option key={m.id} value={m.id}>
-                {m.label} ({m.count})
-              </option>
-            ))}
-          </select>
-          <select
-            value={filter}
-            onChange={(e) => {
-              setFilter(e.target.value as "pending" | "all");
-              setIndex(0);
-            }}
-            aria-label="Filtro"
-          >
-            <option value="pending">Só pendentes</option>
-            <option value="all">Todos</option>
-          </select>
-          <button type="button" className="btn-ghost" onClick={exportReviews}>
-            Exportar JSON
-          </button>
-          <button type="button" className="btn-ghost" onClick={clearQueueReviews}>
-            Limpar fila
-          </button>
-        </div>
-      </header>
-
-      {error && <p className="empty">{error}</p>}
-
-      <div className="stats">
-        <div className="stat">
-          <strong>
-            {reviewedCount}/{queue?.count ?? 0}
-          </strong>
-          <span>revisados</span>
-        </div>
-        <div className="stat">
-          <strong>{approved}</strong>
-          <span>aprovados</span>
-        </div>
-        <div className="stat">
-          <strong>{edited}</strong>
-          <span>editados</span>
-        </div>
-        <div className="stat">
-          <strong>{rejected}</strong>
-          <span>rejeitados</span>
-        </div>
-      </div>
-
-      <div className="layout">
-        <aside className="panel">
-          <div className="panel-header">
-            <h2>Fila</h2>
-            <span className="pill">{visibleItems.length}</span>
+      <div className="app">
+        <header className="topbar">
+          <div>
+            <h1 className="brand">PNLD HITL</h1>
+            <p className="sub">
+              Validação supervisionada de critérios · Anexo 01 §§3–4
+            </p>
           </div>
-          <div className="queue">
-            {visibleItems.map((item, i) => {
-              const review = latestByCode.get(item.code);
-              return (
-                <button
-                  key={item.code}
-                  type="button"
-                  className={`queue-item${i === index ? " active" : ""}`}
-                  onClick={() => setIndex(i)}
-                >
-                  <div
-                    style={{
-                      display: "flex",
-                      justifyContent: "space-between",
-                      gap: 8,
-                    }}
-                  >
-                    <span className="code">{item.code}</span>
-                    {statusPill(review?.action)}
-                  </div>
-                  <span className="snip">{item.statement}</span>
-                </button>
-              );
-            })}
-            {visibleItems.length === 0 && (
-              <p className="empty">Nenhum item neste filtro.</p>
-            )}
-          </div>
-        </aside>
-
-        <section className="panel">
-          {!current ? (
-            <p className="empty">Fila concluída ou vazia.</p>
-          ) : (
-            <>
-              <div className="panel-header">
-                <h2>
-                  {current.code}
-                  {current.parent_code ? ` · pai ${current.parent_code}` : ""}
-                </h2>
-                {statusPill(latestByCode.get(current.code)?.action)}
-              </div>
-              <div className="main-body">
-                <div className="meta-row">
-                  <span className="pill">{current.kind}</span>
-                  <span className="pill">{current.criterion_type}</span>
-                  <span className="pill">
-                    §{current.section_code} · p.{current.page_start}
-                  </span>
-                  <span className="pill">
-                    {current.mandatory_guess ? "obrigatório?" : "facultativo?"}
-                  </span>
-                  {current.applies_to.map((tag) => (
-                    <span className="pill" key={tag}>
-                      {tag}
-                    </span>
-                  ))}
-                </div>
-
-                <p className="context">{current.section_title}</p>
-                <p className="statement">{current.statement}</p>
-
-                <div className="editor">
-                  <label htmlFor="draft">Texto corrigido (para Editar)</label>
-                  <textarea
-                    id="draft"
-                    value={draft}
-                    onChange={(e) => setDraft(e.target.value)}
-                  />
-                  <label htmlFor="note">Nota do revisor (opcional)</label>
-                  <textarea
-                    id="note"
-                    value={note}
-                    onChange={(e) => setNote(e.target.value)}
-                    style={{ minHeight: 72 }}
-                  />
-                </div>
-              </div>
-              <div className="actions">
-                <button
-                  type="button"
-                  className="btn btn-ok"
-                  onClick={() => commit("approve")}
-                >
-                  Aprovar (A)
-                </button>
-                <button
-                  type="button"
-                  className="btn btn-warn"
-                  onClick={() => commit("edit")}
-                >
-                  Salvar edição (⌘↵)
-                </button>
-                <button
-                  type="button"
-                  className="btn btn-danger"
-                  onClick={() => commit("reject")}
-                >
-                  Rejeitar (R)
-                </button>
+          <div className="controls">
+            {!authEnabled ? (
+              <span className="pill pending">acesso aberto · auth prevista</span>
+            ) : user ? (
+              <span className="pill ok">
+                {user.name}
                 <button
                   type="button"
                   className="btn-ghost"
-                  onClick={() =>
-                    setIndex((i) =>
-                      Math.min(i + 1, Math.max(visibleItems.length - 1, 0)),
-                    )
-                  }
+                  style={{ marginLeft: 8, padding: "2px 8px" }}
+                  onClick={signOut}
                 >
-                  Pular (J)
+                  Sair
                 </button>
-                <span className="hint">
-                  A aprovar · E focar edição · R rejeitar · J/K navegar
+              </span>
+            ) : null}
+            <select
+              value={queueId}
+              onChange={(e) => setQueueId(e.target.value)}
+              aria-label="Fila"
+            >
+              {manifest.map((m) => (
+                <option key={m.id} value={m.id}>
+                  {m.label} ({m.count})
+                </option>
+              ))}
+            </select>
+            <select
+              value={filter}
+              onChange={(e) => {
+                setFilter(e.target.value as "pending" | "all");
+                setIndex(0);
+              }}
+              aria-label="Filtro"
+            >
+              <option value="pending">Só pendentes</option>
+              <option value="all">Todos</option>
+            </select>
+            <button type="button" className="btn-ghost" onClick={exportReviews}>
+              Exportar JSON
+            </button>
+            <button
+              type="button"
+              className="btn-ghost"
+              onClick={clearQueueReviews}
+            >
+              Limpar fila
+            </button>
+          </div>
+        </header>
+
+        {error && <p className="empty">{error}</p>}
+
+        <div className="stats">
+          <div className="stat">
+            <strong>
+              {reviewedCount}/{queue?.count ?? 0}
+            </strong>
+            <span>revisados</span>
+          </div>
+          <div className="stat">
+            <strong>{approved}</strong>
+            <span>aprovados</span>
+          </div>
+          <div className="stat">
+            <strong>{edited}</strong>
+            <span>editados</span>
+          </div>
+          <div className="stat">
+            <strong>{rejected}</strong>
+            <span>rejeitados</span>
+          </div>
+        </div>
+
+        <div className="layout layout-triple">
+          <aside className="panel">
+            <div className="panel-header">
+              <h2>Fila</h2>
+              <span className="pill">{visibleItems.length}</span>
+            </div>
+            <div className="queue">
+              {visibleItems.map((item, i) => {
+                const review = latestByCode.get(item.code);
+                return (
+                  <button
+                    key={item.code}
+                    type="button"
+                    className={`queue-item${i === index ? " active" : ""}`}
+                    onClick={() => setIndex(i)}
+                  >
+                    <div
+                      style={{
+                        display: "flex",
+                        justifyContent: "space-between",
+                        gap: 8,
+                      }}
+                    >
+                      <span className="code">{item.code}</span>
+                      {statusPill(review?.action)}
+                    </div>
+                    <span className="snip">{item.statement}</span>
+                  </button>
+                );
+              })}
+              {visibleItems.length === 0 && (
+                <p className="empty">Nenhum item neste filtro.</p>
+              )}
+            </div>
+          </aside>
+
+          <section className="panel pdf-panel">
+            <div className="panel-header">
+              <h2>PDF fonte</h2>
+              {current && (
+                <span className="pill">
+                  {current.code} · p.{current.page_start}
                 </span>
-              </div>
-            </>
-          )}
-        </section>
+              )}
+            </div>
+            <PdfViewer
+              url={currentPdf}
+              page={pdfPage}
+              searchText={current?.code}
+              onPageChange={setPdfOverridePage}
+            />
+          </section>
+
+          <section className="panel">
+            {!current ? (
+              <p className="empty">Fila concluída ou vazia.</p>
+            ) : (
+              <>
+                <div className="panel-header">
+                  <h2>
+                    {current.code}
+                    {current.parent_code ? ` · pai ${current.parent_code}` : ""}
+                  </h2>
+                  {statusPill(latestByCode.get(current.code)?.action)}
+                </div>
+                <div className="main-body">
+                  <div className="meta-row">
+                    <span className="pill">{current.kind}</span>
+                    <span className="pill">{current.criterion_type}</span>
+                    <span className="pill">
+                      §{current.section_code} · p.{current.page_start}
+                    </span>
+                    <span className="pill">
+                      {current.mandatory_guess ? "obrigatório?" : "facultativo?"}
+                    </span>
+                    {current.applies_to.map((tag) => (
+                      <span className="pill" key={tag}>
+                        {tag}
+                      </span>
+                    ))}
+                  </div>
+
+                  <p className="context">{current.section_title}</p>
+                  <p className="statement">{current.statement}</p>
+
+                  <div className="editor">
+                    <label htmlFor="draft">Texto corrigido (para Editar)</label>
+                    <textarea
+                      id="draft"
+                      value={draft}
+                      onChange={(e) => setDraft(e.target.value)}
+                    />
+                    <label htmlFor="note">Nota do revisor (opcional)</label>
+                    <textarea
+                      id="note"
+                      value={note}
+                      onChange={(e) => setNote(e.target.value)}
+                      style={{ minHeight: 72 }}
+                    />
+                  </div>
+                </div>
+                <div className="actions">
+                  <button
+                    type="button"
+                    className="btn btn-ok"
+                    onClick={() => commit("approve")}
+                  >
+                    Aprovar (A)
+                  </button>
+                  <button
+                    type="button"
+                    className="btn btn-warn"
+                    onClick={() => commit("edit")}
+                  >
+                    Salvar edição (⌘↵)
+                  </button>
+                  <button
+                    type="button"
+                    className="btn btn-danger"
+                    onClick={() => commit("reject")}
+                  >
+                    Rejeitar (R)
+                  </button>
+                  <button
+                    type="button"
+                    className="btn-ghost"
+                    onClick={() =>
+                      setIndex((i) =>
+                        Math.min(i + 1, Math.max(visibleItems.length - 1, 0)),
+                      )
+                    }
+                  >
+                    Pular (J)
+                  </button>
+                  <span className="hint">
+                    A aprovar · E editar · R rejeitar · J/K navegar
+                  </span>
+                </div>
+              </>
+            )}
+          </section>
+        </div>
       </div>
-    </div>
     </RequireAuth>
   );
 }
