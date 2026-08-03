@@ -1,0 +1,87 @@
+[
+  {
+    "stem": "anos-iniciais-anexo01",
+    "stats": {
+      "total_units": 936,
+      "by_kind": {
+        "section": 20,
+        "item": 204,
+        "alinea": 712
+      },
+      "by_criterion_type": {
+        "avaliativo_componente": 560,
+        "resultado_aprovacao": 66,
+        "normativo": 7,
+        "contexto": 34,
+        "avaliativo_comum": 47,
+        "avaliativo_objeto": 100,
+        "caracteristica_obra": 113,
+        "objeto_digital": 9
+      },
+      "checklist_candidate_count": 878,
+      "sections_with_items": 21
+    },
+    "json": "/Users/ranilsonpaiva/Downloads/pnld-corpus/analysis/extractions/anos-iniciais-anexo01.json",
+    "tsv": "/Users/ranilsonpaiva/Downloads/pnld-corpus/analysis/extractions/anos-iniciais-anexo01.tsv",
+    "sample_codes": [
+      "11",
+      "1",
+      "2",
+      "2.1",
+      "2.2",
+      "2.3",
+      "2.4",
+      "2.4.1",
+      "2.4.2",
+      "2.4.3",
+      "2.4.4",
+      "2.5",
+      "2.6",
+      "2.7",
+      "2.10"
+    ]
+  },
+  {
+    "stem": "anos-finais-anexo01",
+    "stats": {
+      "total_units": 702,
+      "by_kind": {
+        "section": 16,
+        "item": 176,
+        "alinea": 508,
+        "bullet": 2
+      },
+      "by_criterion_type": {
+        "caracteristica_obra": 78,
+        "resultado_aprovacao": 66,
+        "normativo": 7,
+        "contexto": 13,
+        "avaliativo_comum": 51,
+        "avaliativo_objeto": 92,
+        "objeto_digital": 39,
+        "avaliativo_componente": 356
+      },
+      "checklist_candidate_count": 669,
+      "sections_with_items": 17
+    },
+    "json": "/Users/ranilsonpaiva/Downloads/pnld-corpus/analysis/extractions/anos-finais-anexo01.json",
+    "tsv": "/Users/ranilsonpaiva/Downloads/pnld-corpus/analysis/extractions/anos-finais-anexo01.tsv",
+    "sample_codes": [
+      "8",
+      "1",
+      "2",
+      "2.1",
+      "2.2",
+      "2.2.1",
+      "2.2.2",
+      "2.2.3",
+      "2.2.4",
+      "2.2.5",
+      "2.2.6",
+      "2.2.7",
+      "2.2.8",
+      "2.3",
+      "2.3.1"
+    ]
+  }
+]

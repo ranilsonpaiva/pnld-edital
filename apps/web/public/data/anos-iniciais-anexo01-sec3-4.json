@@ -1,0 +1,2925 @@
+{
+  "id": "anos-iniciais-anexo01",
+  "label": "Anos Iniciais 2027 — Anexo 01 §§3–4",
+  "edital_id": "pnld-anos-iniciais-2027-2030",
+  "version": "anexo-01-5a-retificacao",
+  "source_path": "/Users/ranilsonpaiva/Downloads/pnld-corpus/anos-iniciais-2027/anexo-01-5a-retificacao.pdf",
+  "scope": "Anexo 01 §§3-4",
+  "count": 145,
+  "items": [
+    {
+      "code": "3.1",
+      "parent_code": "3",
+      "kind": "item",
+      "statement": "As obras didáticas (Objeto 1) e as obras de apoio teórico-metodológico (Objeto 2) serão analisadas e avaliadas conforme as determinações deste edital e especificações constantes nos demais anexos.",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 6,
+      "page_end": 6,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "3.2",
+      "parent_code": "3",
+      "kind": "item",
+      "statement": "As obras deverão estar alinhadas à legislação, às diretrizes e às normas oficiais relativas aos Anos Iniciais do Ensino Fundamental (1º ao 5º ano).",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 6,
+      "page_end": 6,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "3.3",
+      "parent_code": "3",
+      "kind": "item",
+      "statement": "Os critérios das obras, em termos qualitativos e quantitativos, são de observância obrigatória",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 6,
+      "page_end": 6,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "3.3.1",
+      "parent_code": "3.3",
+      "kind": "item",
+      "statement": "Os critérios quantitativos por componentes são categóricos, e seu cumprimento é obrigatório.",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 6,
+      "page_end": 6,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "3.3.2",
+      "parent_code": "3.3",
+      "kind": "item",
+      "statement": "Obras que não contenham a quantidade mínima de itens requeridos serão desclassificadas do certame e encaminhadas à reprovação.",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 6,
+      "page_end": 6,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "3.4",
+      "parent_code": "3",
+      "kind": "item",
+      "statement": "As obras devem estar alinhadas às exigências contemporâneas e às necessidades educacionais atuais, refletindo a construção dinâmica da cultura e do conhecimento humano, em articulação com a BNCC.",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "3.5",
+      "parent_code": "3",
+      "kind": "item",
+      "statement": "As obras deverão observar as regras gramaticais da língua portuguesa, bem como das línguas estrangeiras, no caso de materiais específicos de Língua Inglesa e de Língua Espanhola.",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "3.6",
+      "parent_code": "3",
+      "kind": "item",
+      "statement": "Para efeitos da análise pedagógica e da atuação da Comissão Técnica, consideram -se também a pertinência pedagógica, a adequação à faixa etária, a proteção integral da criança e do adolescente, bem como o respeito à pluralidade de ideias, à diversidade étnico -cultural, à democracia e às demais legislações vigentes.",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "3.7",
+      "parent_code": "3",
+      "kind": "item",
+      "statement": "Para efeitos de análise pedagógica serão indicadas à reprovação exibição ou propaganda de marcas ou produtos, exceto com a justificada finalidade pedagógica e quando for sugestões de livros, filmes e/ou materiais de apoio à prática educativa.",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": false,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "3.8",
+      "parent_code": "3",
+      "kind": "item",
+      "statement": "As obras inscritas devem, obrigatoriamente, cumprir o disposto nos seguintes critérios comuns:",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "3.8.a",
+      "parent_code": "3.8",
+      "kind": "alinea",
+      "statement": "Respeito à legislação, às diretrizes e às normas oficiais relativas aos Anos Iniciais do Ensino Fundamental (1º ao 5º ano);",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.8.b",
+      "parent_code": "3.8",
+      "kind": "alinea",
+      "statement": "Correção e atualização de conceitos, informações e procedimentos;",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.8.c",
+      "parent_code": "3.8",
+      "kind": "alinea",
+      "statement": "Adequação e pertinência das orientações prestadas ao professor;",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_professor"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.8.d",
+      "parent_code": "3.8",
+      "kind": "alinea",
+      "statement": "Observância às regras gramaticais da língua na qual a obra tenha sido escrita;",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.8.e",
+      "parent_code": "3.8",
+      "kind": "alinea",
+      "statement": "Adequação da estrutura editorial e do projeto gráfico aos objetivos pedagógicos da obra;",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.8.f",
+      "parent_code": "3.8",
+      "kind": "alinea",
+      "statement": "Observância à abordagem teórico-metodológica sobre o uso responsável e ético das tecnologias e mídias digitais.",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9",
+      "parent_code": "3",
+      "kind": "item",
+      "statement": "As obras inscritas devem, obrigatoriamente, respeitar os preceitos instituídos nos seguintes documentos legais, sem prejuízo de quaisquer outros que tenham pertinência com a educação e a faixa etária a ser atendida ou com direitos humanos",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "3.9.a",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Constituição Federal de 1988;",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.b",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Lei de Diretrizes e Bases da Educação Nacional - LDB (Lei nº 9.394/1996);",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.c",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Lei nº 14.533, de 11 de janeiro de 2023, que instituiu a Política Nacional de Educação Digital (PNED);",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.d",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Estatuto da Criança e do Adolescente - ECA (Lei nº 8.069/1990);",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.e",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Estatuto da Pessoa com Deficiência (Lei nº 13.146/2015);",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.f",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Estatuto do Idoso (Lei nº 10.741/2003);",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.g",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Política Nacional de Educação Ambiental (Lei nº 9.795/1999);",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.h",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "História e Cultura Afro-Brasileira e Indígena (Lei nº 10.639/2003 e Lei nº 11.645/2008);",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.i",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Lei que dispõe sobre a utilização, por estudantes, de aparelhos eletrônicos portáteis pessoais nos estabelecimentos públicos e privados de ensino da Educação Básica (Lei nº 15.100, de 13 de janeiro de 2025);",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.j",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Política Nacional de Atenção Integral à Saúde da Criança (Portaria nº 1.130/2015);",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.k",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Código de Trânsito Brasileiro (Lei nº 9.503/1997);",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.l",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Decreto nº 7.611/2011, que dispõe sobre o Atendimento Educacional Especializado (AEE);",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.m",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Diretrizes Curriculares Nacionais Gerais para a Educação Básica (Parecer CNE/CEB nº 7/2010 e Resolução CNE/CEB nº 4/2010);",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.n",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Diretrizes Curriculares Nacionais para a Educação Ambiental (Resolução CNE/CEB nº 2/2012);",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.o",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Diretrizes Nacionais para a Educação Escolar Quilombola (Resolução CNE/CEB nº 8/2012);",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 7,
+      "page_end": 7,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.10",
+      "parent_code": "3",
+      "kind": "item",
+      "statement": "Em respeito ao arcabouço legal vigente, todas as obras, de forma continuada, interseccional e assertiva, devem atender aos seguintes requisitos:",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 8,
+      "page_end": 8,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "3.10.a",
+      "parent_code": "3.10",
+      "kind": "alinea",
+      "statement": "Estar livres de preconceitos de condição socioeconômica, regional, étnico-racial, gênero, orientação sexual, idade, linguagem, religiosidade, condição de deficiência, assim como de qualquer outra forma de discriminação, violência ou violação de direitos humanos.",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 8,
+      "page_end": 8,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.10.b",
+      "parent_code": "3.10",
+      "kind": "alinea",
+      "statement": "Respeitar o caráter laico e autônomo da educação pública.",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 8,
+      "page_end": 8,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.10.c",
+      "parent_code": "3.10",
+      "kind": "alinea",
+      "statement": "Destacar a presença de maiorias menorizadas em diferentes esferas sociais e profissionais, promovendo a visibilidade e o protagonismo social de todas as pessoas.",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 8,
+      "page_end": 8,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.10.d",
+      "parent_code": "3.10",
+      "kind": "alinea",
+      "statement": "Evidenciar a cultura, a história e a imagem afro -brasileira, quilombola, dos povos indígenas e dos povos do campo, reconhecendo seus saberes, tradições, corpos e modos de organização social, destacando-os nos textos, atividades, fotografias e imagens, sem estigmatizá-los.",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 8,
+      "page_end": 8,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.10.e",
+      "parent_code": "3.10",
+      "kind": "alinea",
+      "statement": "Promover práticas de argumentação fundamentadas em dados científicos a respeito dos princípios éticos necessários à construção da cidadania.",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 8,
+      "page_end": 8,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.10.f",
+      "parent_code": "3.10",
+      "kind": "alinea",
+      "statement": "Estar isenta de imagens e textos que contenham violência sem a devida justificativa pedagógica (o mesmo se aplica à publicidade, marcas, produtos ou serviços comerciais sem a devida justificativa, conforme disposto no Parecer CNE/CEB nº 15/2000).",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 8,
+      "page_end": 8,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.p",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Diretrizes Operacionais para a Educação Básica nas Escolas do Campo (Parecer CNE/CEB nº 36/2001, Resolução CNE/CEB nº 1/2002, Parecer CNE/CEB nº 3/2008 e Resolução CNE/CEB nº 2/2008);",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 8,
+      "page_end": 8,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.q",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Portaria nº 451, de 16 de maio de 2018, que define critérios e procedimentos para a produção, recepção, avaliação e distribuição de recursos educacionais abertos ou gratuitos voltados para a Educação Básica em programas e plataformas oficiais do Ministério da Educação;",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 8,
+      "page_end": 8,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.r",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Normas sobre Computação na Educação Básica – Complemento à BNCC (Resolução CNE/CE nº 1/2022);",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 8,
+      "page_end": 8,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.s",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Resolução FNDE nº 11, de 16 de agosto de 2023;",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 8,
+      "page_end": 8,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.t",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Guia Alimentar para a População Brasileira (Recomendação nº 14/2024/CONSEA/SG/PR);",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 8,
+      "page_end": 8,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.u",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Parecer sobre a Pertinência do Uso de Imagens Comerciais nos Livros Didáticos (CNE/CEB nº 15/2000);",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 8,
+      "page_end": 8,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "3.9.v",
+      "parent_code": "3.9",
+      "kind": "alinea",
+      "statement": "Guia Sobre Uso de Dispositivos Digitais (Brasil, 2025).",
+      "section_code": "3",
+      "section_title": "Critérios Comuns às Obras",
+      "criterion_type": "avaliativo_comum",
+      "page_start": 8,
+      "page_end": 8,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.1",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "As obras didáticas devem ser projetadas para garantir que o processo de aprendizagem ocorra de forma contínua e organizada, levando em conta a função do professor como o responsável por organizar as ações pedagógicas e dos estudantes como protagonistas de suas aprendizagens. Nesse contexto, o livro didático é um instrumento cultural que deve mediar a aprendizagem do estudante.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 8,
+      "page_end": 8,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_professor",
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.2",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "As obras devem ser avaliadas quanto a sua adequação às diretrizes estabelecidas, com foco na capacidade de organizar experiências que permitam ao estudante mobilizar seus conhecimentos prévios para construir novos significados, sempre articulados à cultura e ao contexto social em que está inserido.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 8,
+      "page_end": 8,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.2.1",
+      "parent_code": "4.2",
+      "kind": "item",
+      "statement": "As habilidades que contemplam mais de uma série/ano podem ser abordadas apenas uma vez no material da coleção na Categoria.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 8,
+      "page_end": 8,
+      "mandatory_guess": true,
+      "applies_to": [
+        "colecao"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.10",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "As citações literais, paráfrases ou resumos deverão obrigatoriamente vir acompanhados da referência à publicação original, conforme os parâmetros técnicos da ABNT NBR 6023.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 9,
+      "page_end": 9,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.11",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "Não serão aceitas obras com lacunas ou espaços que induzam o estudante ou os professores a realizar atividades no próprio livro, exceto se fizerem parte da diagramação da obra ou se tratar de obra de caráter consumível.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 9,
+      "page_end": 9,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_professor",
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.11.1",
+      "parent_code": "4.11",
+      "kind": "item",
+      "statement": "Ensejará em falha pontual a situação da obra não consumível que contenha lacunas ou espaços que induzam o estudante ou os professores a realizar atividades no próprio livro.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 9,
+      "page_end": 9,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_professor",
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.11.2",
+      "parent_code": "4.11",
+      "kind": "item",
+      "statement": "A recorrência de que trata a hipótese do item anterior caracterizará, caso avaliada a necessidade de revisão global da obra, na sua reprovação.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 9,
+      "page_end": 9,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.12",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "Para efeitos de inscrição e avaliação, as obras deverão ser submetidas de modo descaracterizado, ou seja, sem identificação nominal da editora, sob pena de reprovação.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 9,
+      "page_end": 9,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.13",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "São critérios avaliativos a coerência e a adequação da abordagem teórico-metodológica assumida pela obra, no que diz respeito à proposta didático-pedagógica explicitada e aos objetivos visados.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 9,
+      "page_end": 9,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.13.1",
+      "parent_code": "4.13",
+      "kind": "item",
+      "statement": "As coleções devem ser organizadas em acordo com propostas pedagógicas que superem abordagens sintéticas do processo de alfabetização.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 9,
+      "page_end": 9,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.2.2",
+      "parent_code": "4.2",
+      "kind": "item",
+      "statement": "No caso de obras de Língua Espanhola, as obras deverão seguir os demais critérios listados neste edital tanto para as versões do Livro do Professor (Impresso e Digital) quanto para as versões do Livro do Estudante (impresso e digital).",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 9,
+      "page_end": 9,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_professor",
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.2.3",
+      "parent_code": "4.2",
+      "kind": "item",
+      "statement": "As habilidades abordadas nos materiais devem se ater àquelas específicas do ano(s)/série(",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 9,
+      "page_end": 9,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.2.3.s",
+      "parent_code": "4.2.3",
+      "kind": "alinea",
+      "statement": "de atendimento da Categoria para a qual a obra estará inscrita.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 9,
+      "page_end": 9,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.2.4",
+      "parent_code": "4.2",
+      "kind": "item",
+      "statement": "Os volumes das coleções de Língua Portuguesa, da Categoria 1 e da Categoria 2, devem abordar todas as habilidades específicas do ano e do ciclo (1° e 2° nas coleções do ciclo referente à Categoria 1) (3°, 4° e 5° nas coleções do ciclo referente à Categoria 2) de forma integrada com os campos de atuação social.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 9,
+      "page_end": 9,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.3",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "As obras devem organizar as atividades de modo que os estudantes utilizem suas experiências sociais e culturais para desenvolver novas competências linguísticas, promovendo uma relação ativa com a linguagem (escrita, leitura, oralidade e escuta).",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 9,
+      "page_end": 9,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.4",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "A linguagem das obras e as orientações para as atividades devem ser apresentadas de forma a facilitar a compreensão do que está sendo solicitado, de acordo com a faixa etária de crianças dos Anos Iniciais.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 9,
+      "page_end": 9,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.5",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "Os Temas Contemporâneos Transversais (TCTs) deverão ser abordados de forma interdisciplinar em todos os volumes com, no mínimo, a abordagem de dois diferentes temas por volume da coleção.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 9,
+      "page_end": 9,
+      "mandatory_guess": true,
+      "applies_to": [
+        "colecao"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.6",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "O conteúdo deve ser organizado de maneira a garantir a clareza e a objetividade necessárias para que as crianças possam se apropriar dos conhecimentos de forma eficaz, sem dispersão de informações ou confusão conceitual entre o que se aprende nos Anos Iniciais e nos Anos Finais.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 9,
+      "page_end": 9,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.7",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "Não haverá inscrição de caderno de atividades.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 9,
+      "page_end": 9,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.8",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "Em caso de a coleção conter anexos indispensáveis para sua adequada utilização, esses materiais deverão obrigatoriamente fazer parte do corpo da coleção, não podendo constituir volume em separado.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 9,
+      "page_end": 9,
+      "mandatory_guess": true,
+      "applies_to": [
+        "colecao"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.9",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "Poderão ser inscritas coleções didáticas inéditas ou que já participaram de outras edições do PNLD, desde que estejam adequadas às especificações deste edital e às demandas da BNCC previstas para cada área do conhecimento e componente curricular.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 9,
+      "page_end": 9,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.14",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "As obras devem respeitar a perspectiva interdisciplinar na apresentação e abordagem dos conteúdos, especialmente nas áreas das Linguagens, das Ciências Humanas e das Ciências da Natureza.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 10,
+      "page_end": 10,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.15",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "Serão analisadas a pertinência, a qualidade e a adequação de conteúdo multimídia ao projeto pedagógico e ao texto impresso das obras.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 10,
+      "page_end": 10,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.16",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "Todas as obras, sem exceção, devem ter como objetivo a apropriação das capacidades necessárias para a escrita, a leitura, o letramento matemático e o uso social destes conhecimentos, com direcionamentos para este fim.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 10,
+      "page_end": 10,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.16.1",
+      "parent_code": "4.16",
+      "kind": "item",
+      "statement": "Para a apropriação da escrita e da leitura, especialmente nos materiais da Categoria 1, a fonte e o tamanho de fonte do material devem ser utilizados com este propósito.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 10,
+      "page_end": 10,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.17",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "Por mais diversificadas que sejam as concepções e as práticas de ensino-aprendizagem, o Livro Impresso do Estudante (LIE) e o Livro Digital do Estudante (LDE) devem promover em sua configuração as possibilidades de:",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 10,
+      "page_end": 10,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.17.a",
+      "parent_code": "4.17",
+      "kind": "alinea",
+      "statement": "construir conhecimentos de forma significativa e qualificada, engajando os estudantes por meio de uma linguagem clara, acessível e conectada ao universo infantil;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 10,
+      "page_end": 10,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.17.b",
+      "parent_code": "4.17",
+      "kind": "alinea",
+      "statement": "favorecer o desenvolvimento do pensamento autônomo e crítico, ajustado ao nível de compreensão dos estudantes;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 10,
+      "page_end": 10,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.17.c",
+      "parent_code": "4.17",
+      "kind": "alinea",
+      "statement": "considerar a diversidade cultural e as múltiplas realidades dos estudantes brasileiros, promovendo imagens, fotografias, exemplos visuais dos aspectos culturais do nosso povo em sua pluralidade;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 10,
+      "page_end": 10,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.17.d",
+      "parent_code": "4.17",
+      "kind": "alinea",
+      "statement": "oferecer condições para a progressão e a recuperação de aprendizagens com diferentes graus de complexidade nas propostas de atividades, permitindo que cada estudante avance no seu próprio ritmo, com suporte para consolidar o conhecimento de maneira individualizada;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 10,
+      "page_end": 10,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.17.e",
+      "parent_code": "4.17",
+      "kind": "alinea",
+      "statement": "explorar conceitos e informações atualizadas de forma acessível e adequada à faixa etária;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 10,
+      "page_end": 10,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.17.f",
+      "parent_code": "4.17",
+      "kind": "alinea",
+      "statement": "oferecer sugestões de leituras, histórias, filmes, personalidades etc.;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 10,
+      "page_end": 10,
+      "mandatory_guess": false,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.17.g",
+      "parent_code": "4.17",
+      "kind": "alinea",
+      "statement": "propor situações de ensino com intervenções na realidade dos estudantes para que apliquem o conhecimento em seus próprios territórios;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 10,
+      "page_end": 10,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.17.h",
+      "parent_code": "4.17",
+      "kind": "alinea",
+      "statement": "utilizar abordagens diversificadas nas atividades, oferecendo várias formas de explorar os mesmos conceitos utilizando-se de diferentes processos cognitivos para garantir a efetiva apropriação do conhecimento;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 10,
+      "page_end": 10,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.17.i",
+      "parent_code": "4.17",
+      "kind": "alinea",
+      "statement": "incentivar a exploração do ambiente e o aprendizado ativo, sugerindo visitas guiadas (a museus, centros de pesquisas, teatros, parques, cinema, centros culturais, entre outros);",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 10,
+      "page_end": 10,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.17.j",
+      "parent_code": "4.17",
+      "kind": "alinea",
+      "statement": "destacar, quando for o caso, o uso pedagógico da tecnologia (laboratórios virtuais, celulares, simuladores etc.), em acordo com a legislação vigente;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 10,
+      "page_end": 10,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.17.k",
+      "parent_code": "4.17",
+      "kind": "alinea",
+      "statement": "fornecer exemplos e explicações claras para facilitar a compreensão dos conteúdos abordados, respeitando o nível de entendimento dos estudantes;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 10,
+      "page_end": 10,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.17.l",
+      "parent_code": "4.17",
+      "kind": "alinea",
+      "statement": "combater todo tipo de preconceito (social, cultural, étnico -racial, religioso, entre outros), promovendo uma postura inclusiva e empática nas reflexões das atividades;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 10,
+      "page_end": 10,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.17.m",
+      "parent_code": "4.17",
+      "kind": "alinea",
+      "statement": "promover sistematicamente, ao longo da coleção e em todos os materiais, o desenvolvimento do domínio da escrita de letras e algarismos com a correta forma gráfica;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 10,
+      "page_end": 10,
+      "mandatory_guess": true,
+      "applies_to": [
+        "colecao"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.17.n",
+      "parent_code": "4.17",
+      "kind": "alinea",
+      "statement": "apresentar e incentivar a escrita e a leitura, inicialmente em letra bastão no 1º ano, perpassando para a letra de imprensa e cursiva no 2º, aprofundando-as do 3º ano em diante;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 10,
+      "page_end": 10,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.17.o",
+      "parent_code": "4.17",
+      "kind": "alinea",
+      "statement": "implementar a transcrição sistemática de tamanhos e formatos de fontes adequados a cada ano dos Anos Iniciais, diferenciando o uso de letra bastão e de imprensa para leitura, e, cursiva, para escrita manuscrita, priorizando a letra de bastão e de imprensa para facilitar o reconhecimento visual e a fluência na leitura, enquanto se introduz gradualmente a letra cursiva para a escrita à mão, realizando uma transição entre maiúsculas e minúsculas ao longo dos anos, com ênfase em todos os volumes da Categoria 1, e, de forma menos intensa, nos materiais da Categoria 2, focando sempre na alfabetização;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 10,
+      "page_end": 11,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.17.p",
+      "parent_code": "4.17",
+      "kind": "alinea",
+      "statement": "apresentar, quando previsto para a obra/volume, cópias individuais de encartes eventualmente apresentados ao final do volume, quando obras não-consumíveis.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 11,
+      "page_end": 11,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "Quanto à adequação e à pertinência das orientações prestadas ao professor e o formato do material, o Livro Impresso do Professor (LIP) e o Livro Digital do Professor (LDP) devem:",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 11,
+      "page_end": 11,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_professor"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.18.a",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "incluir tanto o Livro Impresso do Estudante quanto o Livro Digital do Estudante de forma integral em formato U (reduzido compreendendo entre 70% e 85% do formato original), com orientações específicas para os professores ao longo do material, compondo um único volume;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 11,
+      "page_end": 11,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_professor",
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.b",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "apresentar sugestões de respostas às questões, oferecendo orientações para que o professor possa guiar e apoiar o processo de aprendizagem dos estudantes de maneira clara e efetiva;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 11,
+      "page_end": 11,
+      "mandatory_guess": false,
+      "applies_to": [
+        "livro_professor",
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.c",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "explicar a estrutura da BNCC, exceto em obras de componentes/obras não contemplados pela BNCC para os Anos Iniciais (produção de texto, inglês, espanhol);",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 11,
+      "page_end": 11,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.d",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "explicar a estrutura da BNCC Computação (Complemento à BNCC), exclusivamente na obra de Educação Digital;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 11,
+      "page_end": 11,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.e",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "conter, nas coleções de Língua Portuguesa e Matemática, orientações didáticas sobre a pega de três pontos no lápis para fluidez na escrita de letras e algarismos e a correta direção do traço com foco no desenvolvimento da escrita;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 11,
+      "page_end": 11,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.f",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "explicitar os pressupostos teórico-metodológicos e os objetivos que fundamentam a proposta didático-pedagógica da obra;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 11,
+      "page_end": 11,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.g",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "conter as respostas esperadas das atividades, ao longo ou ao final do material;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 11,
+      "page_end": 11,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.h",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "descrever a organização geral da obra, tanto no conjunto dos volumes quanto na estruturação interna de cada um deles, para que o professor possa compreender o desenvolvimento progressivo dos conteúdos;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 11,
+      "page_end": 11,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_professor"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.i",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "sugerir possibilidades de trabalho interdisciplinar, oferecendo orientações práticas e teóricas que facilitem a articulação entre os diferentes componentes curriculares;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 11,
+      "page_end": 11,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.j",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "apresentar o uso adequado dos livros, com estratégias e recursos de ensino ajustados à faixa etária, que potencializem o aprendizado e o engajamento das crianças;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 11,
+      "page_end": 11,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.k",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "sugerir formas de personalização das atividades em observância às diferentes necessidades de aprendizagem dentro de uma mesma sala de aula;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 11,
+      "page_end": 11,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.l",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "discutir diferentes concepções, formas e instrumentos de avaliação, para que o professor tenha subsídios para avaliar o processo de aprendizagem de forma reflexiva e adaptada às necessidades dos estudantes (portifólio, seminários, saraus, debates orais, provas, testes, ditados etc.);",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 11,
+      "page_end": 11,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_professor",
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.m",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "explicitar os conceitos de cada modelo avaliativo (somativo, formativo, diagnóstico) e indicar os objetivos de cada um;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 11,
+      "page_end": 11,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.n",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "apresentar sugestões de cronogramas (bimestral, trimestral e semestral), além de orientar o professor na construção de seu próprio cronograma, conforme a realidade escolar, exceto livro regional e de produção de texto;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 11,
+      "page_end": 11,
+      "mandatory_guess": false,
+      "applies_to": [
+        "livro_professor"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.o",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "apresentar diferentes formas de organização da turma, além do modelo enfileirado, para que o professor possa diversificar o ambiente de aprendizagem e promover interações mais significativas entre as crianças, tanto na escola quanto na comunidade escolar;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 12,
+      "page_end": 12,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_professor"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.p",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "propor estratégias de ensino -aprendizagem que incluam estudantes com deficiência, garantindo que o professor tenha ferramentas para promover a inclusão e a participação de todos os estudantes (este item pode ser contemplado com sugestões de bibliografia);",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 12,
+      "page_end": 12,
+      "mandatory_guess": false,
+      "applies_to": [
+        "livro_professor",
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.q",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "alertar sobre eventuais riscos na realização de atividades e experimentos, garantindo a integridade física e o bem-estar de estudantes, professores e demais envolvidos no processo;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 12,
+      "page_end": 12,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_professor",
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.r",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "incluir a visão geral da proposta desenvolvida tanto no Livro Impresso do Estudante quanto no Livro Digital do Estudante, garantindo a coerência entre os materiais destinados a professores e a estudantes;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 12,
+      "page_end": 12,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_professor",
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.s",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "propiciar a reflexão sobre a prática docente, incentivando que o professor analise sua relação com os estudantes e compreenda seu papel social e a função da escola;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 12,
+      "page_end": 12,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_professor",
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.t",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "indicar referencial bibliográfico comentado para professores, oferecendo orientações sobre materiais adicionais que complementem e aprofundem conhecimentos sobre processos de ensino - aprendizagem, especialmente na etapa de alfabetização;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 12,
+      "page_end": 12,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_professor"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.u",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "sugerir, na margem em U, atividades de aprofundamento ou de reforço para complementar exercícios ou tarefas dos estudantes;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 12,
+      "page_end": 12,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.v",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "incluir exemplos de proposta de matriz de planejamento de rotina e de sequência didática;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 12,
+      "page_end": 12,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.w",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "incentivar sistematicamente por toda a obra, na margem em U, que professores acolham, engajem e deem oportunidade de os estudantes verbalizarem seu raciocínio, escreverem e desenvolverem, no coletivo da turma, a compreensão do motivo da atividade e da realização da resposta;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 12,
+      "page_end": 12,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_professor",
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.18.x",
+      "parent_code": "4.18",
+      "kind": "alinea",
+      "statement": "sugerir atividades, projetos ou culminâncias que envolvam a família e/ou a comunidade escolar na rotina da sala de aula, garantindo que os estudantes sejam os protagonistas da ação (especialmente ações que envolvam leitura, produção de texto ou produções artísticas).",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 12,
+      "page_end": 12,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.19",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "Quanto à adequação da estrutura editorial e do projeto gráfico, a proposta didático-pedagógica de uma coleção deve traduzir- se em projeto gráfico -editorial compatível com suas opções teórico - metodológicas, considerando-se, dentre outros aspectos, a faixa etária e o desenvolvimento cognitivo esperado para os estudantes do Anos Iniciais do Ensino Fundamental. Nesse sentido, a coleção deve apresentar:",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 12,
+      "page_end": 12,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_estudante",
+        "colecao"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.19.a",
+      "parent_code": "4.19",
+      "kind": "alinea",
+      "statement": "organização clara, coerente e funcional, que permita aos estudantes e professores navegarem pelo material de maneira intuitiva e acessível, facilitando a compreensão e o uso eficaz dos conteúdos;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 12,
+      "page_end": 12,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_professor",
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.19.b",
+      "parent_code": "4.19",
+      "kind": "alinea",
+      "statement": "legibilidade gráfica adequada aos Anos Iniciais do Ensino Fundamental, considerando o desenho, o tamanho e o espaçamento entre letras, palavras e linhas, bem como o formato, as dimensões e a disposição dos textos na página, visando ao processo de aquisição e ao desenvolvimento da leitura e da escrita;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 12,
+      "page_end": 12,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.19.c",
+      "parent_code": "4.19",
+      "kind": "alinea",
+      "statement": "impressão em preto do texto principal, para garantir a clareza e a legibilidade.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 12,
+      "page_end": 12,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.19.d",
+      "parent_code": "4.19",
+      "kind": "alinea",
+      "statement": "títulos e subtítulos hierarquizados de forma clara, quando for o caso, utilizando recursos gráficos compatíveis com a faixa etária e que ajudem os estudantes a navegarem pelos conteúdos de maneira organizada;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 12,
+      "page_end": 12,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.19.e",
+      "parent_code": "4.19",
+      "kind": "alinea",
+      "statement": "sumário que reflita a organização dos conteúdos e atividades, permitindo a rápida localização das informações por meio da indicação precisa das páginas;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 13,
+      "page_end": 13,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.19.f",
+      "parent_code": "4.19",
+      "kind": "alinea",
+      "statement": "indicação diferenciada dos objetos digitais no sumário e nas páginas onde se localizam, garantindo a rápida localização e a navegação dos materiais digitais, com organização e paginação idênticas ao volume físico;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 13,
+      "page_end": 13,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.19.g",
+      "parent_code": "4.19",
+      "kind": "alinea",
+      "statement": "seleção textual que dialogue intensamente com as culturas e vivências das crianças, justificando a qualidade da experiência de leitura e a identificação que ela pode proporcionar aos estudantes;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 13,
+      "page_end": 13,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.19.h",
+      "parent_code": "4.19",
+      "kind": "alinea",
+      "statement": "legendas sintéticas com cores definidas e sem excesso de informações, garantindo que as imagens dos mapas e gráficos sejam interpretadas facilmente pelos estudantes.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 13,
+      "page_end": 13,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.19.i",
+      "parent_code": "4.19",
+      "kind": "alinea",
+      "statement": "ausência de repetição de conteúdo sem o devido aprofundamento, evitando a ampliação desnecessária do número de páginas e garantindo que cada conceito seja explorado de forma significativa;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 13,
+      "page_end": 13,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.19.j",
+      "parent_code": "4.19",
+      "kind": "alinea",
+      "statement": "agregação, quando possível, de habilidades que tratam do mesmo objeto de conhecimento ou tenham o mesmo objetivo, proporcionando qualidade ao material e a não repetição de conteúdos já trabalhados.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 13,
+      "page_end": 13,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.20",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "No que diz respeito às ilustrações, fotografias e imagens, as obras devem:",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 13,
+      "page_end": 13,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.20.a",
+      "parent_code": "4.20",
+      "kind": "alinea",
+      "statement": "ser adequadas às finalidades para as quais foram elaboradas, garantindo que as ilustrações estejam em sintonia com os objetivos pedagógicos e sejam apropriadas para a faixa etária das crianças, contribuindo diretamente para a construção do conhecimento;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 13,
+      "page_end": 13,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.20.b",
+      "parent_code": "4.20",
+      "kind": "alinea",
+      "statement": "contribuir para a compreensão de textos e atividades, sendo distribuídas de forma equilibrada na página, de modo a facilitar a leitura e evitar sobrecarga visual, considerando as capacidades sensoriais e de atenção das crianças;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 13,
+      "page_end": 13,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.20.c",
+      "parent_code": "4.20",
+      "kind": "alinea",
+      "statement": "respeitar as proporções entre objetos ou seres representados, sobretudo em ilustrações de caráter científico, para assegurar a precisão visual e facilitar a compreensão das crianças, ajustando-se ao nível de entendimento esperado para essa faixa etária;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 13,
+      "page_end": 13,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.20.d",
+      "parent_code": "4.20",
+      "kind": "alinea",
+      "statement": "estar acompanhadas dos respectivos créditos e da clara identificação da localização das fontes ou acervos de onde foram reproduzidas, assegurando a transparência e a integridade do uso das imagens;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 13,
+      "page_end": 13,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.20.e",
+      "parent_code": "4.20",
+      "kind": "alinea",
+      "statement": "apresentar títulos, legendas, fontes e datas, no caso de gráficos, tabelas e imagens artísticas, para que as crianças possam interpretar as informações com clareza e precisão, de modo adequado à sua compreensão;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 13,
+      "page_end": 13,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.20.f",
+      "parent_code": "4.20",
+      "kind": "alinea",
+      "statement": "explorar diferentes formatos de ilustração, como desenhos, figuras, gráficos, fotografias, reproduções de pinturas, mapas e tabelas, adequados ao contexto de ensino -aprendizagem das crianças, para enriquecer a sua experiência visual;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 13,
+      "page_end": 13,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.20.g",
+      "parent_code": "4.20",
+      "kind": "alinea",
+      "statement": "apresentar, no caso de ilustrações científicas, informações detalhadas sobre eventuais adaptações na produção da imagem;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 13,
+      "page_end": 13,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.20.h",
+      "parent_code": "4.20",
+      "kind": "alinea",
+      "statement": "utilizar ilustrações que estejam em relação direta com o texto, garantindo que as imagens complementem e reforcem o conteúdo textual, de maneira que as crianças possam relacionar as informações visuais com o material escrito;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 13,
+      "page_end": 13,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.20.i",
+      "parent_code": "4.20",
+      "kind": "alinea",
+      "statement": "utilizar de recursos régua numerada, legenda, escala, coordenadas, quando for o caso, para que as crianças possam entender as proporções e as relações de tamanho dos elementos apresentados;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 13,
+      "page_end": 13,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.20.j",
+      "parent_code": "4.20",
+      "kind": "alinea",
+      "statement": "retratar adequadamente a diversidade étnica da população brasileira, assim como a pluralidade social e cultural do país, priorizando fotografias reais, de fontes fidedignas.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 14,
+      "page_end": 14,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.21",
+      "parent_code": "4",
+      "kind": "item",
+      "statement": "No que diz respeito às representações cartográficas de todas as obras , especialmente nas coleções das Ciências Humanas, elas devem:",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 14,
+      "page_end": 14,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.5
+    },
+    {
+      "code": "4.21.a",
+      "parent_code": "4.21",
+      "kind": "alinea",
+      "statement": "apresentar legendas, escalas, coordenadas e orientações, com a devida legibilidade e em conformidade com as convenções oficiais, ajustando a linguagem para que seja acessível às crianças dessa faixa etária;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 14,
+      "page_end": 14,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.21.b",
+      "parent_code": "4.21",
+      "kind": "alinea",
+      "statement": "promover, principalmente nos materiais de Ciências Humanas, os princípios referenciais na construção do raciocínio geográfico e do pensamento espacial, como extensão, delimitação e localização, causalidade, conexidade e atividade, de forma que as crianças possam desenvolver gradualmente a noção espacial;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 14,
+      "page_end": 14,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.21.c",
+      "parent_code": "4.21",
+      "kind": "alinea",
+      "statement": "verificar se os mapas apresentados são claros e legíveis e se contêm todos os elementos cartográficos, utilizando escalas adequadas para representar os fenômenos de forma precisa, respeitando as proporções entre os objetos e indicando desproporções em legendas específicas;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 14,
+      "page_end": 14,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.21.d",
+      "parent_code": "4.21",
+      "kind": "alinea",
+      "statement": "utilizar diferentes formas de representação cartográfica para comunicar temas, fatos, fenômenos e conteúdos, incorporando elementos de etnocartografia, cartografia social e outras perspectivas que ampliem a compreensão do espaço geográfico para as crianças;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 14,
+      "page_end": 14,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.21.e",
+      "parent_code": "4.21",
+      "kind": "alinea",
+      "statement": "valorizar as práticas de leitura, análise e interpretação de diferentes representações cartográficas, relacionando-as a temas, fatos, fenômenos e conteúdos geográficos relevantes para os estudantes dos Anos Iniciais;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 14,
+      "page_end": 14,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.21.f",
+      "parent_code": "4.21",
+      "kind": "alinea",
+      "statement": "permitir a leitura, análise e interpretação de mapas, tanto isoladamente quanto em conjunto com textos, imagens e atividades, para que os mapas não sejam meramente ilustrativos, mas instrumentos de aprendizagem ativa;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 14,
+      "page_end": 14,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.21.g",
+      "parent_code": "4.21",
+      "kind": "alinea",
+      "statement": "propor atividades e/ou situações -problema que estimulem a construção de diferentes representações cartográficas, inclusive com o uso de recursos digitais, para que as crianças possam experimentar e criar suas próprias elaborações cartográficas;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 14,
+      "page_end": 14,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.21.h",
+      "parent_code": "4.21",
+      "kind": "alinea",
+      "statement": "conter um nível de aprofundamento contínuo ao longo da obra, respeitando os estágios de localização, análise, correlação e síntese, ajustados ao desenvolvimento cognitivo dos estudantes dos Anos Iniciais, permitindo que as crianças construam e ampliem seu conhecimento cartográfico de forma progressiva e conectada às suas experiências de vida;",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 14,
+      "page_end": 14,
+      "mandatory_guess": true,
+      "applies_to": [
+        "livro_estudante"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    },
+    {
+      "code": "4.21.i",
+      "parent_code": "4.21",
+      "kind": "alinea",
+      "statement": "utilizar escalas condizentes com o conjunto de informações propostas na representação cartográfica, facilitando a compreensão dos fenômenos tratados e ajustando -as para que sejam adequadas ao entendimento das crianças.",
+      "section_code": "4",
+      "section_title": "Critérios das Obras Didáticas (Objeto 1)",
+      "criterion_type": "avaliativo_objeto",
+      "page_start": 14,
+      "page_end": 14,
+      "mandatory_guess": true,
+      "applies_to": [
+        "obra"
+      ],
+      "edital_id": "pnld-anos-iniciais-2027-2030",
+      "version": "anexo-01-5a-retificacao",
+      "doc_type": "anexo_01_referencial_pedagogico",
+      "status": "pending_review",
+      "confidence": 0.55
+    }
+  ]
+}
